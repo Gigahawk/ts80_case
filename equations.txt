@@ -1,0 +1,6 @@
+﻿"case_length"= 140
+"case_height"= 25
+"case_width"= 65
+"plate_thickness"= 3
+"case_to_shell_offset"= 19.6
+"body_tip_distance"= 30
